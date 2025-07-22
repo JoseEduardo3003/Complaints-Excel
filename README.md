@@ -13,11 +13,11 @@ Este dashboard apresenta uma visão abrangente sobre reclamações registradas e
 
   ## 🧼 Etapas do Projeto
 
-  ### 1. Análise (Excel)
+### 1. Análise (Excel)
 - Tabelas dinâmicas e análise de indicadores com funções
 - Criação de aba extra para auxiliar na tradução (O dataset está em inglês)
 
-  ### 2. Dashboard (Excel)
+### 2. Dashboard (Excel)
 - Tabelas dinâmicas e funções (PROCV,SOMASE,etc)
 - Gráficos de linha, barras e pizza
 - KPIs com caixas e ícones
@@ -30,8 +30,6 @@ Este dashboard apresenta uma visão abrangente sobre reclamações registradas e
 ## 📷 Preview do Dashboard
 ![Dashboard Excel](imagens_dashboard/projeto2_paginainicial.PNG)
 ![Dashboard Excel](imagens_dashboard/projeto2_visaogeral.PNG)
-![Dashboard Excel](imagens_dashboard/projeto2_produto_problema.PNG)
-![Dashboard Excel](imagens_dashboard/projeto2_resolucoes_respostas.PNG)
 
 ---
 
