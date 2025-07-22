@@ -18,7 +18,6 @@ Este dashboard apresenta uma visão abrangente sobre reclamações registradas e
 - Criação de aba extra para auxiliar na tradução (O dataset está em inglês)
 
 ### 2. Dashboard (Excel)
-- Tabelas dinâmicas e funções (PROCV,SOMASE,etc)
 - Gráficos de linha, barras e pizza
 - KPIs com caixas e ícones
 - Botões Interativos para navegação no Dashboard
