@@ -1,4 +1,4 @@
-# 📢 Excel-Dashboard-Reclamacoes
+# 📢 Excel - Dashboard - Reclamações
 Este dashboard apresenta uma visão abrangente sobre reclamações registradas entre 2017 e 2023.  A análise inclui canais de envio, categorias de produto, tipos de problemas e o desempenho das resoluções pelas empresas.
 
 ---
@@ -30,6 +30,8 @@ Este dashboard apresenta uma visão abrangente sobre reclamações registradas e
 ## 📷 Preview do Dashboard
 ![Dashboard Excel](imagens_dashboard/projeto2_paginainicial.PNG)
 ![Dashboard Excel](imagens_dashboard/projeto2_visaogeral.PNG)
+![Dashboard Excel](imagens_dashboard/projeto2_produto_problema.PNG)
+![Dashboard Excel](imagens_dashboard/projeto2_resolucoes_respostas.PNG)
 
 ---
 
