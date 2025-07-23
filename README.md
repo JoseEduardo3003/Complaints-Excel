@@ -33,6 +33,7 @@ Este dashboard apresenta uma visão abrangente sobre reclamações registradas e
   ## 🧼 Etapas do Projeto
 
 ### 1. Análise (Excel)
+- Uso de Power Query para verificar Distribuição e Qualidade das colunas, bem como a tipagem
 - Tabelas dinâmicas e análise de indicadores com funções
 - Criação de aba extra para auxiliar na tradução (O dataset está em inglês)
 
