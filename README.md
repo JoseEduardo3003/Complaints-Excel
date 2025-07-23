@@ -11,8 +11,6 @@ Este dashboard apresenta uma visão abrangente sobre reclamações registradas e
 
   ---
 
-# 🔍 Dicionário de Dados
-
 ### 🔠 Dicionário de Dados
 
 | Coluna                        | Descrição                                                                                                                                                                                                 |
