@@ -67,4 +67,4 @@ Este dashboard apresenta uma visão abrangente sobre reclamações registradas e
 
 ## 🔗 Sobre o Dataset
 Dataset original: Financial Consumer Complaints – Maven Analytics  
-Disponível em: [https://www.mavenanalytics.io/data-playground](https://www.mavenanalytics.io/data-playground)
+Disponível em: [www.mavenanalytics.io/data-playground](https://www.mavenanalytics.io/data-playground)
