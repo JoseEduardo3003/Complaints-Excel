@@ -1,0 +1,18 @@
+## 📘 Dicionário de Dados
+
+### 🛍️ Tabela Única: Data
+
+| Campo           | Descrição                                          |
+|-----------------|----------------------------------------------------|
+| Complaint ID    | Identificador único da reclamação                  |
+| Submitted via   | Canal pelo qual a reclamação foi enviada ao CFPB   |
+| Date submitted  | Data em que o CFPB recebeu a reclamação            |
+| Date received   | Data em que a reclamação foi enviada para a empresa|
+| State           | Estado (sigla) informado pelo consumidor           |
+| Product         | Tipo de produto identificado na reclamação         |
+| Sub-Product     | Subcategoria do Produto (nem todos têm)            |
+| Issue           | Problema identificado pelo consumidor              |
+| Sub-issue       | Subproblema relacionado ao problema principal      |
+| Company public response| Resposta Pública opcional da empresa        | 
+| Company response to consumer| Resposta da empresa ao consumidor      |
+| Timely response?   | Se a resposta foi dada dentro do prazo          |
