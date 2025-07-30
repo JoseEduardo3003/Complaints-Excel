@@ -10,7 +10,7 @@ Neste projeto, desenvolvi uma análise baseada em registros de reclamações de 
 - **Produto final**: Dashboard em Excel
 
   ---
-                                                                          |
+
 ## 📚 Dicionário de Dados (resumo)
 Este projeto apenas uma tabela com dados gerais sobre cada reclamação.
 
