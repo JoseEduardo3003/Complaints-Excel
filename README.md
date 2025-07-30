@@ -9,7 +9,7 @@ Neste projeto, desenvolvi uma análise baseada em registros de reclamações de 
 - **Foco**: Comportamento Geral das Reclamações, Produtos mais contestados, Problemas mais comuns, Resoluções mais comuns e Análise de Respostas fora do prazo
 - **Produto final**: Dashboard em Excel
 
-  ---
+---
 
 ## 📚 Dicionário de Dados (resumo)
 Este projeto apenas uma tabela com dados gerais sobre cada reclamação.
