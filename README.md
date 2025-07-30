@@ -28,6 +28,11 @@ Neste projeto, desenvolvi uma análise baseada em registros de reclamações de 
 | Company response to consumer | Resposta da empresa ao consumidor (ex: "Encerrado com explicação")                                                                                                                                        |
 | Timely response?             | Se a resposta da empresa foi dada dentro do prazo (Yes/No)                                                                                                                                                |
 
+## 📚 Dicionário de Dados (resumo)
+Este projeto apenas uma tabela com dados gerais sobre cada reclamação.
+
+Para o dicionário completo, veja [aqui](./dados_tratados_entrega/dicionario_reclamacoes.txt).
+
 ---
 
   ## 🧼 Etapas do Projeto
