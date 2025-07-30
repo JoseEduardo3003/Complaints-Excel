@@ -10,24 +10,7 @@ Neste projeto, desenvolvi uma análise baseada em registros de reclamações de 
 - **Produto final**: Dashboard em Excel
 
   ---
-
-### 🔠 Dicionário de Dados
-
-| Coluna                        | Descrição                                                                                                                                                                                                 |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Complaint ID                 | Identificador único da reclamação                                                                                                                                                                        |
-| Submitted via                | Canal pelo qual a reclamação foi enviada ao CFPB (ex: Web, Telefone, etc.)                                                                                                                               |
-| Date submitted               | Data em que o CFPB recebeu a reclamação                                                                                                                                                                   |
-| Date received                | Data em que a reclamação foi enviada para a empresa                                                                                                                                                       |
-| State                        | Estado (sigla) informado pelo consumidor                                                                                                                                                                  |
-| Product                      | Tipo de produto identificado na reclamação (ex: Cartão de crédito, Empréstimo, etc.)                                                                                                                    |
-| Sub-product                  | Subcategoria do produto (nem todos os produtos têm subprodutos)                                                                                                                                           |
-| Issue                        | Problema identificado pelo consumidor (os valores possíveis variam conforme o produto)                                                                                                                    |
-| Sub-issue                    | Subproblema relacionado ao problema principal (nem todos os problemas têm subproblemas)                                                                                                                   |
-| Company public response      | Resposta pública opcional da empresa, escolhida a partir de uma lista padronizada (ex: "Empresa acredita que foi um erro isolado")                                                                       |
-| Company response to consumer | Resposta da empresa ao consumidor (ex: "Encerrado com explicação")                                                                                                                                        |
-| Timely response?             | Se a resposta da empresa foi dada dentro do prazo (Yes/No)                                                                                                                                                |
-
+                                                                                                                                     |
 ## 📚 Dicionário de Dados (resumo)
 Este projeto apenas uma tabela com dados gerais sobre cada reclamação.
 
@@ -35,7 +18,7 @@ Para o dicionário completo, veja [aqui](./dados_tratados_entrega/dicionario_rec
 
 ---
 
-  ## 🧼 Etapas do Projeto
+## 🧼 Etapas do Projeto
 
 ### 1. Análise (Excel)
 - Uso de Power Query para verificar Distribuição e Qualidade das colunas, bem como a tipagem
