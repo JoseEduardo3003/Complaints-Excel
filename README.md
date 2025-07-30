@@ -1,5 +1,5 @@
 # 📢 Excel - Dashboard - Reclamações
-Este dashboard apresenta uma visão abrangente sobre reclamações registradas entre 2017 e 2023.  A análise inclui canais de envio, categorias de produto, tipos de problemas e o desempenho das resoluções pelas empresas.
+Neste projeto, desenvolvi uma análise baseada em registros de reclamações de clientes sobre serviços bancários. A ideia foi entender padrões por canal de atendimento, tempo de resposta e produto reclamado, utilizando Excel para criação de dashboards e indicadores.
 
 ---
 
